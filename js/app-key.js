@@ -1,0 +1,1 @@
+window.APP_KEY = "61fda28a060b2365a2d812b98b082603";
